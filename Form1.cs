@@ -15,17 +15,6 @@ namespace Exercise
         {
             InitializeComponent();
             MyModel = new Model();
-            textBox1.Text = "3025";
-            textBox2.Text = "50";
-            comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
-            comboBox1.SelectedIndex = 0;
-            comboBox2.DropDownStyle = ComboBoxStyle.DropDownList;
-            comboBox2.SelectedIndex = 0;
-            comboBox2.Text = "4017-8.8";
-            comboBox3.DropDownStyle = ComboBoxStyle.DropDownList;
-            comboBox3.SelectedIndex = 0;
-            comboBox3.Text = "20";
-            radioButton1.Checked = true;
         }
 
         private readonly Model MyModel;
