@@ -1,0 +1,10 @@
+D:\stezenie\bin\Debug\Stężenie.exe.config
+D:\stezenie\bin\Debug\Stężenie.exe
+D:\stezenie\bin\Debug\Stężenie.pdb
+D:\stezenie\ObjDir\2019\Stężenie\Stężenie.csprojAssemblyReference.cache
+D:\stezenie\ObjDir\2019\Stężenie\Exercise.Form1.resources
+D:\stezenie\ObjDir\2019\Stężenie\Stężenie.Properties.Resources.resources
+D:\stezenie\ObjDir\2019\Stężenie\Stężenie.csproj.GenerateResource.cache
+D:\stezenie\ObjDir\2019\Stężenie\Stężenie.csproj.CoreCompileInputs.cache
+D:\stezenie\ObjDir\2019\Stężenie\Stężenie.exe
+D:\stezenie\ObjDir\2019\Stężenie\Stężenie.pdb

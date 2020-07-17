@@ -1,0 +1,30 @@
+C:\Users\Paweł\Downloads\komponenty tekla\TSOpenAPISelfLearningExercises-master\Exercise1-PadFootings\obj\Debug\Stężenie.csprojAssemblyReference.cache
+C:\Users\Paweł\Downloads\komponenty tekla\TSOpenAPISelfLearningExercises-master\Exercise1-PadFootings\obj\Debug\Exercise.Form1.resources
+C:\Users\Paweł\Downloads\komponenty tekla\TSOpenAPISelfLearningExercises-master\Exercise1-PadFootings\obj\Debug\Stężenie.csproj.GenerateResource.cache
+C:\Users\Paweł\Downloads\komponenty tekla\TSOpenAPISelfLearningExercises-master\Exercise1-PadFootings\obj\Debug\Stężenie.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Downloads\komponenty tekla\TSOpenAPISelfLearningExercises-master\Exercise1-PadFootings\bin\Debug\Stężenie.exe.config
+C:\Users\Paweł\Downloads\komponenty tekla\TSOpenAPISelfLearningExercises-master\Exercise1-PadFootings\bin\Debug\Stężenie.exe
+C:\Users\Paweł\Downloads\komponenty tekla\TSOpenAPISelfLearningExercises-master\Exercise1-PadFootings\bin\Debug\Stężenie.pdb
+C:\Users\Paweł\Downloads\komponenty tekla\TSOpenAPISelfLearningExercises-master\Exercise1-PadFootings\obj\Debug\Stężenie.Properties.Resources.resources
+C:\Users\Paweł\Downloads\komponenty tekla\TSOpenAPISelfLearningExercises-master\Exercise1-PadFootings\obj\Debug\Stężenie.exe
+C:\Users\Paweł\Downloads\komponenty tekla\TSOpenAPISelfLearningExercises-master\Exercise1-PadFootings\obj\Debug\Stężenie.pdb
+C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie\bin\Debug\Stężenie.exe.config
+C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie\bin\Debug\Stężenie.exe
+C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie\bin\Debug\Stężenie.pdb
+C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie\obj\Debug\Stężenie.csprojAssemblyReference.cache
+C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie\obj\Debug\Exercise.Form1.resources
+C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie\obj\Debug\Stężenie.Properties.Resources.resources
+C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie\obj\Debug\Stężenie.csproj.GenerateResource.cache
+C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie\obj\Debug\Stężenie.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie\obj\Debug\Stężenie.exe
+C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie\obj\Debug\Stężenie.pdb
+D:\stezenie\bin\Debug\Stężenie.exe.config
+D:\stezenie\bin\Debug\Stężenie.exe
+D:\stezenie\bin\Debug\Stężenie.pdb
+D:\stezenie\obj\Debug\Stężenie.csprojAssemblyReference.cache
+D:\stezenie\obj\Debug\Exercise.Form1.resources
+D:\stezenie\obj\Debug\Stężenie.Properties.Resources.resources
+D:\stezenie\obj\Debug\Stężenie.csproj.GenerateResource.cache
+D:\stezenie\obj\Debug\Stężenie.csproj.CoreCompileInputs.cache
+D:\stezenie\obj\Debug\Stężenie.exe
+D:\stezenie\obj\Debug\Stężenie.pdb

@@ -1,0 +1,10 @@
+C:\Users\Paweł\Downloads\komponenty tekla\TSOpenAPISelfLearningExercises-master\Exercise1-PadFootings\bin\Debug\Exercise2.1.exe.config
+C:\Users\Paweł\Downloads\komponenty tekla\TSOpenAPISelfLearningExercises-master\Exercise1-PadFootings\bin\Debug\Exercise2.1.exe
+C:\Users\Paweł\Downloads\komponenty tekla\TSOpenAPISelfLearningExercises-master\Exercise1-PadFootings\bin\Debug\Exercise2.1.pdb
+C:\Users\Paweł\Downloads\komponenty tekla\TSOpenAPISelfLearningExercises-master\Exercise1-PadFootings\obj\Debug\Exercise.Form1.resources
+C:\Users\Paweł\Downloads\komponenty tekla\TSOpenAPISelfLearningExercises-master\Exercise1-PadFootings\obj\Debug\Exercise.Properties.Resources.resources
+C:\Users\Paweł\Downloads\komponenty tekla\TSOpenAPISelfLearningExercises-master\Exercise1-PadFootings\obj\Debug\Exercise1.csproj.GenerateResource.cache
+C:\Users\Paweł\Downloads\komponenty tekla\TSOpenAPISelfLearningExercises-master\Exercise1-PadFootings\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Downloads\komponenty tekla\TSOpenAPISelfLearningExercises-master\Exercise1-PadFootings\obj\Debug\Exercise2.1.exe
+C:\Users\Paweł\Downloads\komponenty tekla\TSOpenAPISelfLearningExercises-master\Exercise1-PadFootings\obj\Debug\Exercise2.1.pdb
+C:\Users\Paweł\Downloads\komponenty tekla\TSOpenAPISelfLearningExercises-master\Exercise1-PadFootings\obj\Debug\Exercise1.csprojAssemblyReference.cache
