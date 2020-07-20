@@ -1,3 +1,5 @@
+using System.Windows.Forms;
+
 namespace Exercise
 {
     partial class Form1
@@ -58,6 +60,7 @@ namespace Exercise
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 2;
+            this.textBox1.Text = "3025";
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // textBox2
@@ -66,6 +69,7 @@ namespace Exercise
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 20);
             this.textBox2.TabIndex = 3;
+            this.textBox2.Text = "50";
             this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // comboBox1
@@ -78,6 +82,8 @@ namespace Exercise
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(58, 21);
             this.comboBox1.TabIndex = 4;
+            this.comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;// this.ComboBoxStyle.DropDownList;
+            this.comboBox1.SelectedIndex = 0;
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // label1
@@ -108,6 +114,7 @@ namespace Exercise
             this.radioButton1.TabIndex = 9;
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "Lewo -> Prawo";
+            this.radioButton1.Checked = true;
             this.radioButton1.UseVisualStyleBackColor = true;
             // 
             // radioButton2
@@ -150,6 +157,9 @@ namespace Exercise
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(58, 21);
             this.comboBox2.TabIndex = 13;
+            this.comboBox2.DropDownStyle = ComboBoxStyle.DropDownList;
+            this.comboBox2.SelectedIndex = 0;
+            this.comboBox2.Text = "4017-8.8";
             this.comboBox2.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
             // 
             // comboBox3
@@ -164,6 +174,9 @@ namespace Exercise
             this.comboBox3.Name = "comboBox3";
             this.comboBox3.Size = new System.Drawing.Size(58, 21);
             this.comboBox3.TabIndex = 14;
+            this.comboBox3.DropDownStyle = ComboBoxStyle.DropDownList;
+            this.comboBox3.SelectedIndex = 0;
+            this.comboBox3.Text = "20";
             this.comboBox3.SelectedIndexChanged += new System.EventHandler(this.comboBox3_SelectedIndexChanged);
             // 
             // Form1
