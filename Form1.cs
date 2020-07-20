@@ -30,7 +30,7 @@ namespace Exercise
 
                 Picker piku = new Picker();
 
-
+                //askjdhygausgfdyzjusrgfafsa
                 ArrayList info = new ArrayList();
                 info = new ArrayList { "END_X", "END_Y", "END_Z", "START_X", "START_Y", "START_Z" };
                 ArrayList info2 = new ArrayList();
