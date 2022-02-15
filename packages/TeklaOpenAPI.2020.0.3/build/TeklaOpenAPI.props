@@ -2,7 +2,7 @@
 <Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
     <!-- Basic settings -->
     <PropertyGroup>
-        <MajorVersionNumber                    Condition="'$(MajorVersionNumber)'==''">2018</MajorVersionNumber>
+        <MajorVersionNumber                    Condition="'$(MajorVersionNumber)'==''">2020</MajorVersionNumber>
         <MinorVersionNumber                    Condition="'$(MinorVersionNumber)'==''">0</MinorVersionNumber>
         <BuildNumber                           Condition="'$(BuildNumber)'==''">0</BuildNumber>
         <RevisionNumber                        Condition="'$(RevisionNumber)'==''">0</RevisionNumber>
@@ -11,7 +11,7 @@
         
         
         <!-- TSVersion is used for specifying folders. Change when branching. -->
-        <TSVersion              Condition="'$(TSVersion)'==''">2018</TSVersion>
+        <TSVersion              Condition="'$(TSVersion)'==''">2019</TSVersion>
         <!-- Main Versions Numbers For Tekla Structures -->
         <TSVersionNumber>$(MajorVersionNumber).$(MinorVersionNumber).$(BuildNumber).$(RevisionNumber)</TSVersionNumber>
 

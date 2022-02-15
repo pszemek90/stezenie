@@ -8,3 +8,13 @@ D:\stezenie\ObjDir\2019\Stężenie\Stężenie.csproj.GenerateResource.cache
 D:\stezenie\ObjDir\2019\Stężenie\Stężenie.csproj.CoreCompileInputs.cache
 D:\stezenie\ObjDir\2019\Stężenie\Stężenie.exe
 D:\stezenie\ObjDir\2019\Stężenie\Stężenie.pdb
+C:\Users\p.makarczuk\Source\Repos\stezenie\bin\Debug\Stężenie.exe.config
+C:\Users\p.makarczuk\Source\Repos\stezenie\bin\Debug\Stężenie.exe
+C:\Users\p.makarczuk\Source\Repos\stezenie\bin\Debug\Stężenie.pdb
+C:\Users\p.makarczuk\Source\Repos\stezenie\ObjDir\2019\Stężenie\Stężenie.csprojAssemblyReference.cache
+C:\Users\p.makarczuk\Source\Repos\stezenie\ObjDir\2019\Stężenie\Exercise.Form1.resources
+C:\Users\p.makarczuk\Source\Repos\stezenie\ObjDir\2019\Stężenie\Stężenie.Properties.Resources.resources
+C:\Users\p.makarczuk\Source\Repos\stezenie\ObjDir\2019\Stężenie\Stężenie.csproj.GenerateResource.cache
+C:\Users\p.makarczuk\Source\Repos\stezenie\ObjDir\2019\Stężenie\Stężenie.csproj.CoreCompileInputs.cache
+C:\Users\p.makarczuk\Source\Repos\stezenie\ObjDir\2019\Stężenie\Stężenie.exe
+C:\Users\p.makarczuk\Source\Repos\stezenie\ObjDir\2019\Stężenie\Stężenie.pdb

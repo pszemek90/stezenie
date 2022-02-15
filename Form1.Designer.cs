@@ -42,6 +42,8 @@ namespace Exercise
             this.label4 = new System.Windows.Forms.Label();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
             this.comboBox3 = new System.Windows.Forms.ComboBox();
+            this.radioButton3 = new System.Windows.Forms.RadioButton();
+            this.radioButton4 = new System.Windows.Forms.RadioButton();
             this.SuspendLayout();
             // 
             // CreatePadFootingButton
@@ -74,16 +76,16 @@ namespace Exercise
             // 
             // comboBox1
             // 
+            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox1.Items.AddRange(new object[] {
             "D12",
             "D16",
-            "D20"});
+            "D20",
+            "D24"});
             this.comboBox1.Location = new System.Drawing.Point(194, 29);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(58, 21);
             this.comboBox1.TabIndex = 4;
-            this.comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;// this.ComboBoxStyle.DropDownList;
-            this.comboBox1.SelectedIndex = 0;
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // label1
@@ -108,13 +110,13 @@ namespace Exercise
             // radioButton1
             // 
             this.radioButton1.AutoSize = true;
+            this.radioButton1.Checked = true;
             this.radioButton1.Location = new System.Drawing.Point(12, 120);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(96, 17);
             this.radioButton1.TabIndex = 9;
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "Lewo -> Prawo";
-            this.radioButton1.Checked = true;
             this.radioButton1.UseVisualStyleBackColor = true;
             // 
             // radioButton2
@@ -124,14 +126,13 @@ namespace Exercise
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(96, 17);
             this.radioButton2.TabIndex = 10;
-            this.radioButton2.TabStop = true;
             this.radioButton2.Text = "Prawo -> Lewo";
             this.radioButton2.UseVisualStyleBackColor = true;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(149, 108);
+            this.label3.Location = new System.Drawing.Point(231, 113);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(66, 13);
             this.label3.TabIndex = 11;
@@ -141,7 +142,7 @@ namespace Exercise
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(149, 147);
+            this.label4.Location = new System.Drawing.Point(220, 158);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(77, 13);
             this.label4.TabIndex = 12;
@@ -150,41 +151,59 @@ namespace Exercise
             // 
             // comboBox2
             // 
+            this.comboBox2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox2.Items.AddRange(new object[] {
             "4014-8.8",
             "4017-8.8"});
-            this.comboBox2.Location = new System.Drawing.Point(171, 124);
+            this.comboBox2.Location = new System.Drawing.Point(239, 129);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(58, 21);
             this.comboBox2.TabIndex = 13;
-            this.comboBox2.DropDownStyle = ComboBoxStyle.DropDownList;
-            this.comboBox2.SelectedIndex = 0;
-            this.comboBox2.Text = "4017-8.8";
             this.comboBox2.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
             // 
             // comboBox3
             // 
+            this.comboBox3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox3.Items.AddRange(new object[] {
             "10",
             "12",
             "16",
             "20",
             "24"});
-            this.comboBox3.Location = new System.Drawing.Point(171, 165);
+            this.comboBox3.Location = new System.Drawing.Point(239, 174);
             this.comboBox3.Name = "comboBox3";
             this.comboBox3.Size = new System.Drawing.Size(58, 21);
             this.comboBox3.TabIndex = 14;
-            this.comboBox3.DropDownStyle = ComboBoxStyle.DropDownList;
-            this.comboBox3.SelectedIndex = 0;
-            this.comboBox3.Text = "20";
             this.comboBox3.SelectedIndexChanged += new System.EventHandler(this.comboBox3_SelectedIndexChanged);
+            // 
+            // radioButton3
+            // 
+            this.radioButton3.AutoSize = true;
+            this.radioButton3.Location = new System.Drawing.Point(12, 165);
+            this.radioButton3.Name = "radioButton3";
+            this.radioButton3.Size = new System.Drawing.Size(131, 17);
+            this.radioButton3.TabIndex = 15;
+            this.radioButton3.Text = "Lewo -> Prawo (¿ebro)";
+            this.radioButton3.UseVisualStyleBackColor = true;
+            // 
+            // radioButton4
+            // 
+            this.radioButton4.AutoSize = true;
+            this.radioButton4.Location = new System.Drawing.Point(12, 188);
+            this.radioButton4.Name = "radioButton4";
+            this.radioButton4.Size = new System.Drawing.Size(131, 17);
+            this.radioButton4.TabIndex = 16;
+            this.radioButton4.Text = "Prawo -> Lewo (¿ebro)";
+            this.radioButton4.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ScrollBar;
-            this.ClientSize = new System.Drawing.Size(300, 198);
+            this.ClientSize = new System.Drawing.Size(300, 218);
+            this.Controls.Add(this.radioButton4);
+            this.Controls.Add(this.radioButton3);
             this.Controls.Add(this.comboBox3);
             this.Controls.Add(this.comboBox2);
             this.Controls.Add(this.label4);
@@ -219,6 +238,8 @@ namespace Exercise
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.ComboBox comboBox2;
         private System.Windows.Forms.ComboBox comboBox3;
+        private RadioButton radioButton3;
+        private RadioButton radioButton4;
     }
 }
 
